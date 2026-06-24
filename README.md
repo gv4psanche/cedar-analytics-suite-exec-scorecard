@@ -132,6 +132,8 @@ Five CSV files form a star-schema-style data model. All files cover **Q1 2024 �
 
 **To load in Power BI:** Get Data → Text/CSV for each file. Set `Quarter` as text type and `Year` as whole number. Build a calculated date column for time intelligence and relate all tables through a shared Date dimension.
 
+**To load in Tableau:** Start Page → Connect → To a File → Text/CSV for each file. Set `Quarter` as String type and `Year` as Number (Whole). Build a calculated date column for time intelligence and relate all tables through a shared Date dimension.
+
 ---
 
 ## Key Findings
