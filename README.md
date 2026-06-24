@@ -1,6 +1,6 @@
 # Cedar Analytics Suite — Executive Scorecard Dashboard Solution
 
-> A end-to-end business intelligence project: from company research and KPI design to data modeling and interactive dashboard prototyping.
+> A end-to-end business intelligence project: from company research and KPI design to data modeling and interactive dashboard prototyping aided by Claude Sonnet 4.6.
 
 ---
 
@@ -24,7 +24,7 @@ The output is a ready-to-import data visualiztion solution (Power BI or Tableau)
 
 ## About the Company
 
-Cedar is an IT asset lifecycle platform serving large global enterprises across five verticals — financial services, technology & cloud, telecom & media, healthcare, and manufacturing. The company provides two families of service:
+**Cedar** is an IT asset lifecycle platform serving large global enterprises across five verticals — financial services, technology & cloud, telecom & media, healthcare, and manufacturing. The company provides two families of service:
 
 - **Lifecycle services** — deployment, staff augmentation, redeployment, and circularity programs
 - **End-of-lifecycle services** — data center decommissioning, certified data destruction, and IT asset disposition (ITAD)
