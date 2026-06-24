@@ -1,0 +1,36 @@
+Deal_ID,Quarter,Year,Vertical,Deal_Size_USD,Sales_Cycle_Days,Services_Bundled,SmartERP_Included,Demo_Date,Close_Date,Stage,Rep_Name,Region,Bundle_Count,ICP_Score,Demo_to_Close_Days
+DL001,Q1,2024,Financial Services,380000,88,3,Yes,2024-01-05,2024-03-31,Closed Won,Sarah Kim,East,3,92,85
+DL002,Q1,2024,Technology & Cloud,520000,55,4,Yes,2024-01-12,2024-03-07,Closed Won,Marcus Reid,West,4,95,54
+DL003,Q1,2024,Telecom & Media,225000,72,2,No,2024-01-18,2024-03-30,Closed Won,James Torres,Central,2,78,71
+DL004,Q1,2024,Healthcare,160000,130,1,No,2024-01-22,2024-05-31,Closed Won,Priya Nair,East,1,65,129
+DL005,Q1,2024,Manufacturing & OEM,195000,165,1,No,2024-01-29,2024-07-12,Closed Won,David Chen,West,1,60,164
+DL006,Q2,2024,Financial Services,420000,85,3,Yes,2024-04-03,2024-06-27,Closed Won,Sarah Kim,East,3,91,85
+DL007,Q2,2024,Technology & Cloud,580000,50,4,Yes,2024-04-08,2024-05-28,Closed Won,Marcus Reid,West,4,96,50
+DL008,Q2,2024,Technology & Cloud,310000,65,3,Yes,2024-04-15,2024-06-19,Closed Won,Lisa Park,West,3,88,65
+DL009,Q2,2024,Telecom & Media,240000,70,2,Yes,2024-04-20,2024-06-29,Closed Won,James Torres,Central,2,80,70
+DL010,Q2,2024,Healthcare,195000,125,2,No,2024-04-25,2024-08-28,Closed Won,Priya Nair,East,2,70,125
+DL011,Q2,2024,Manufacturing & OEM,245000,175,1,No,2024-04-28,2024-10-20,Closed Lost,David Chen,West,1,58,175
+DL012,Q3,2024,Financial Services,450000,82,3,Yes,2024-07-02,2024-09-22,Closed Won,Sarah Kim,East,3,93,82
+DL013,Q3,2024,Technology & Cloud,620000,48,5,Yes,2024-07-09,2024-08-26,Closed Won,Marcus Reid,West,5,97,48
+DL014,Q3,2024,Technology & Cloud,345000,60,3,Yes,2024-07-14,2024-09-12,Closed Won,Lisa Park,West,3,89,60
+DL015,Q3,2024,Telecom & Media,260000,68,3,Yes,2024-07-20,2024-09-26,Closed Won,James Torres,Central,3,83,67
+DL016,Q3,2024,Healthcare,215000,118,2,Yes,2024-07-25,2024-11-20,Closed Won,Priya Nair,East,2,74,118
+DL017,Q3,2024,Manufacturing & OEM,215000,158,2,No,2024-07-30,2025-01-04,Closed Won,David Chen,West,2,66,157
+DL018,Q4,2024,Financial Services,490000,78,4,Yes,2024-10-05,2024-12-22,Closed Won,Sarah Kim,East,4,94,78
+DL019,Q4,2024,Technology & Cloud,680000,45,5,Yes,2024-10-10,2024-11-24,Closed Won,Marcus Reid,West,5,98,45
+DL020,Q4,2024,Technology & Cloud,390000,58,4,Yes,2024-10-14,2024-12-11,Closed Won,Lisa Park,West,4,90,58
+DL021,Q4,2024,Telecom & Media,280000,65,3,Yes,2024-10-18,2024-12-22,Closed Won,James Torres,Central,3,85,65
+DL022,Q4,2024,Healthcare,235000,110,2,Yes,2024-10-22,2025-02-09,Closed Won,Priya Nair,East,2,78,110
+DL023,Q4,2024,Manufacturing & OEM,235000,148,2,Yes,2024-10-28,2025-03-25,Closed Won,David Chen,West,2,70,148
+DL024,Q1,2025,Financial Services,540000,74,4,Yes,2025-01-06,2025-03-21,Closed Won,Sarah Kim,East,4,95,74
+DL025,Q1,2025,Technology & Cloud,750000,42,5,Yes,2025-01-10,2025-02-21,Closed Won,Marcus Reid,West,5,98,42
+DL026,Q1,2025,Technology & Cloud,430000,55,4,Yes,2025-01-15,2025-03-11,Closed Won,Lisa Park,West,4,91,55
+DL027,Q1,2025,Telecom & Media,295000,62,3,Yes,2025-01-20,2025-03-23,Closed Won,James Torres,Central,3,86,62
+DL028,Q1,2025,Healthcare,260000,105,3,Yes,2025-01-24,2025-05-09,Closed Won,Priya Nair,East,3,82,105
+DL029,Q1,2025,Manufacturing & OEM,260000,138,3,Yes,2025-01-28,2025-06-15,Closed Won,David Chen,West,3,75,138
+DL030,Q2,2025,Financial Services,590000,70,4,Yes,2025-04-04,2025-06-13,Closed Won,Sarah Kim,East,4,95,70
+DL031,Q2,2025,Technology & Cloud,820000,40,5,Yes,2025-04-07,2025-05-17,Closed Won,Marcus Reid,West,5,99,40
+DL032,Q2,2025,Technology & Cloud,480000,52,4,Yes,2025-04-12,2025-06-03,Closed Won,Lisa Park,West,4,92,52
+DL033,Q2,2025,Telecom & Media,315000,60,3,Yes,2025-04-17,2025-06-16,Closed Won,James Torres,Central,3,87,60
+DL034,Q2,2025,Healthcare,285000,98,3,Yes,2025-04-21,2025-07-28,Closed Won,Priya Nair,East,3,84,98
+DL035,Q2,2025,Manufacturing & OEM,285000,128,3,Yes,2025-04-25,2025-08-31,Closed Won,David Chen,West,3,78,128

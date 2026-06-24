@@ -1,0 +1,43 @@
+Quarter,Year,Vertical,New_ACV_USD,SmartERP_Attached,Service_Type,Win_Loss,Competitor,Deal_Count,Avg_Deal_Size_USD
+Q1,2024,Financial Services,1800000,Yes,Lifecycle Services,Win,Iron Mountain,6,300000
+Q1,2024,Financial Services,320000,No,ITAD Only,Win,Sims Lifecycle,3,106667
+Q1,2024,Technology & Cloud,2200000,Yes,Lifecycle Services,Win,Arrow Electronics,8,275000
+Q1,2024,Technology & Cloud,180000,No,ITAD Only,Loss,Sims Lifecycle,2,90000
+Q1,2024,Telecom & Media,900000,Yes,ITAD Only,Win,Iron Mountain,4,225000
+Q1,2024,Healthcare,500000,No,ITAD Only,Win,Agilant Solutions,3,166667
+Q1,2024,Manufacturing & OEM,400000,No,ITAD Only,Win,Internal,2,200000
+Q2,2024,Financial Services,2100000,Yes,Lifecycle Services,Win,Iron Mountain,7,300000
+Q2,2024,Financial Services,410000,No,ITAD Only,Win,Sims Lifecycle,4,102500
+Q2,2024,Technology & Cloud,2500000,Yes,Lifecycle Services,Win,Arrow Electronics,9,277778
+Q2,2024,Technology & Cloud,220000,Yes,Lifecycle Services,Win,Internal,2,110000
+Q2,2024,Telecom & Media,1000000,Yes,ITAD Only,Win,Iron Mountain,4,250000
+Q2,2024,Healthcare,600000,No,ITAD Only,Win,Agilant Solutions,3,200000
+Q2,2024,Manufacturing & OEM,500000,No,ITAD Only,Loss,Internal,2,250000
+Q3,2024,Financial Services,2300000,Yes,Lifecycle Services,Win,Iron Mountain,7,328571
+Q3,2024,Financial Services,480000,Yes,Lifecycle Services,Win,Sims Lifecycle,4,120000
+Q3,2024,Technology & Cloud,2800000,Yes,Lifecycle Services,Win,Arrow Electronics,9,311111
+Q3,2024,Technology & Cloud,310000,Yes,Lifecycle Services,Win,Internal,3,103333
+Q3,2024,Telecom & Media,1200000,Yes,ITAD Only,Win,Iron Mountain,5,240000
+Q3,2024,Healthcare,800000,Yes,ITAD Only,Win,Agilant Solutions,4,200000
+Q3,2024,Manufacturing & OEM,600000,No,ITAD Only,Win,Internal,3,200000
+Q4,2024,Financial Services,2600000,Yes,Lifecycle Services,Win,Iron Mountain,8,325000
+Q4,2024,Financial Services,520000,Yes,Lifecycle Services,Win,Sims Lifecycle,4,130000
+Q4,2024,Technology & Cloud,3100000,Yes,Lifecycle Services,Win,Arrow Electronics,10,310000
+Q4,2024,Technology & Cloud,380000,Yes,Lifecycle Services,Win,Internal,3,126667
+Q4,2024,Telecom & Media,1300000,Yes,ITAD Only,Win,Iron Mountain,5,260000
+Q4,2024,Healthcare,1000000,Yes,Lifecycle Services,Win,Agilant Solutions,5,200000
+Q4,2024,Manufacturing & OEM,700000,Yes,ITAD Only,Win,Internal,3,233333
+Q1,2025,Financial Services,3000000,Yes,Lifecycle Services,Win,Iron Mountain,9,333333
+Q1,2025,Financial Services,620000,Yes,Lifecycle Services,Win,Sims Lifecycle,5,124000
+Q1,2025,Technology & Cloud,3600000,Yes,Lifecycle Services,Win,Arrow Electronics,11,327273
+Q1,2025,Technology & Cloud,490000,Yes,Lifecycle Services,Win,Internal,4,122500
+Q1,2025,Telecom & Media,1500000,Yes,ITAD Only,Win,Iron Mountain,6,250000
+Q1,2025,Healthcare,1300000,Yes,Lifecycle Services,Win,Agilant Solutions,6,216667
+Q1,2025,Manufacturing & OEM,900000,Yes,ITAD Only,Win,Internal,4,225000
+Q2,2025,Financial Services,3400000,Yes,Lifecycle Services,Win,Iron Mountain,10,340000
+Q2,2025,Financial Services,710000,Yes,Lifecycle Services,Win,Sims Lifecycle,5,142000
+Q2,2025,Technology & Cloud,4100000,Yes,Lifecycle Services,Win,Arrow Electronics,12,341667
+Q2,2025,Technology & Cloud,580000,Yes,Lifecycle Services,Win,Internal,5,116000
+Q2,2025,Telecom & Media,1700000,Yes,ITAD Only,Win,Iron Mountain,7,242857
+Q2,2025,Healthcare,1800000,Yes,Lifecycle Services,Win,Agilant Solutions,8,225000
+Q2,2025,Manufacturing & OEM,1100000,Yes,Lifecycle Services,Win,Internal,5,220000

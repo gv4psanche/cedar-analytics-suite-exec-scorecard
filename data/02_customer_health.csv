@@ -1,0 +1,50 @@
+Quarter,Year,Account_ID,Account_Name,Vertical,NPS_Score,NRR_Pct,Time_to_Value_Days,SmartERP_Active,Contract_ARR_USD,Renewal_Due_Quarter,Renewal_Due_Year,SP500_Top10,Account_Status
+Q1,2024,ACC001,Apex Financial Group,Financial Services,65,108,45,Yes,480000,Q1,2025,Yes,Healthy
+Q1,2024,ACC002,CloudCore Technologies,Technology & Cloud,70,112,38,Yes,620000,Q2,2025,Yes,Healthy
+Q1,2024,ACC003,Meridian Telecom,Telecom & Media,62,105,52,No,310000,Q3,2025,No,At Risk
+Q1,2024,ACC004,HealthFirst Systems,Healthcare,58,103,60,No,220000,Q4,2025,No,At Risk
+Q1,2024,ACC005,Precision OEM Corp,Manufacturing & OEM,54,101,72,No,180000,Q1,2026,No,At Risk
+Q1,2024,ACC006,Global Trust Bank,Financial Services,72,115,35,Yes,850000,Q2,2025,Yes,Healthy
+Q1,2024,ACC007,NexGen Cloud,Technology & Cloud,68,110,40,Yes,540000,Q3,2025,Yes,Healthy
+Q2,2024,ACC001,Apex Financial Group,Financial Services,67,110,42,Yes,510000,Q1,2025,Yes,Healthy
+Q2,2024,ACC002,CloudCore Technologies,Technology & Cloud,71,114,36,Yes,660000,Q2,2025,Yes,Healthy
+Q2,2024,ACC003,Meridian Telecom,Telecom & Media,60,104,55,No,315000,Q3,2025,No,At Risk
+Q2,2024,ACC004,HealthFirst Systems,Healthcare,61,106,57,Yes,240000,Q4,2025,No,Improving
+Q2,2024,ACC005,Precision OEM Corp,Manufacturing & OEM,56,102,68,No,185000,Q1,2026,No,At Risk
+Q2,2024,ACC006,Global Trust Bank,Financial Services,74,117,33,Yes,910000,Q2,2025,Yes,Healthy
+Q2,2024,ACC007,NexGen Cloud,Technology & Cloud,70,112,38,Yes,580000,Q3,2025,Yes,Healthy
+Q2,2024,ACC008,Vertex Media Group,Telecom & Media,64,107,48,Yes,270000,Q4,2025,No,Healthy
+Q3,2024,ACC001,Apex Financial Group,Financial Services,68,112,40,Yes,545000,Q1,2025,Yes,Healthy
+Q3,2024,ACC002,CloudCore Technologies,Technology & Cloud,70,113,36,Yes,695000,Q2,2025,Yes,Healthy
+Q3,2024,ACC003,Meridian Telecom,Telecom & Media,57,102,58,No,310000,Q3,2025,No,At Risk
+Q3,2024,ACC004,HealthFirst Systems,Healthcare,63,108,53,Yes,260000,Q4,2025,No,Improving
+Q3,2024,ACC005,Precision OEM Corp,Manufacturing & OEM,58,103,65,Yes,192000,Q1,2026,No,Improving
+Q3,2024,ACC006,Global Trust Bank,Financial Services,75,118,31,Yes,960000,Q2,2025,Yes,Healthy
+Q3,2024,ACC007,NexGen Cloud,Technology & Cloud,71,113,37,Yes,610000,Q3,2025,Yes,Healthy
+Q3,2024,ACC008,Vertex Media Group,Telecom & Media,66,109,45,Yes,285000,Q4,2025,No,Healthy
+Q4,2024,ACC001,Apex Financial Group,Financial Services,66,109,42,Yes,570000,Q1,2025,Yes,Healthy
+Q4,2024,ACC002,CloudCore Technologies,Technology & Cloud,69,112,38,Yes,720000,Q2,2025,Yes,Healthy
+Q4,2024,ACC003,Meridian Telecom,Telecom & Media,55,100,62,No,305000,Q3,2025,No,At Risk
+Q4,2024,ACC004,HealthFirst Systems,Healthcare,64,109,51,Yes,275000,Q4,2025,No,Improving
+Q4,2024,ACC005,Precision OEM Corp,Manufacturing & OEM,60,105,60,Yes,200000,Q1,2026,No,Improving
+Q4,2024,ACC006,Global Trust Bank,Financial Services,73,116,32,Yes,990000,Q2,2025,Yes,Healthy
+Q4,2024,ACC007,NexGen Cloud,Technology & Cloud,70,114,36,Yes,640000,Q3,2025,Yes,Healthy
+Q4,2024,ACC008,Vertex Media Group,Telecom & Media,68,111,43,Yes,300000,Q4,2025,No,Healthy
+Q1,2025,ACC001,Apex Financial Group,Financial Services,69,114,39,Yes,600000,Q1,2026,Yes,Healthy
+Q1,2025,ACC002,CloudCore Technologies,Technology & Cloud,72,116,34,Yes,760000,Q2,2026,Yes,Healthy
+Q1,2025,ACC003,Meridian Telecom,Telecom & Media,58,103,58,Yes,320000,Q3,2026,No,Improving
+Q1,2025,ACC004,HealthFirst Systems,Healthcare,66,111,48,Yes,295000,Q4,2026,No,Healthy
+Q1,2025,ACC005,Precision OEM Corp,Manufacturing & OEM,62,107,55,Yes,210000,Q1,2027,No,Healthy
+Q1,2025,ACC006,Global Trust Bank,Financial Services,76,119,30,Yes,1050000,Q2,2026,Yes,Healthy
+Q1,2025,ACC007,NexGen Cloud,Technology & Cloud,72,115,35,Yes,680000,Q3,2026,Yes,Healthy
+Q1,2025,ACC008,Vertex Media Group,Telecom & Media,69,112,41,Yes,315000,Q4,2026,No,Healthy
+Q1,2025,ACC009,BioSync Life Sciences,Healthcare,61,104,56,Yes,180000,Q1,2027,No,Improving
+Q2,2025,ACC001,Apex Financial Group,Financial Services,71,117,37,Yes,635000,Q1,2026,Yes,Healthy
+Q2,2025,ACC002,CloudCore Technologies,Technology & Cloud,73,118,33,Yes,800000,Q2,2026,Yes,Healthy
+Q2,2025,ACC003,Meridian Telecom,Telecom & Media,61,106,54,Yes,335000,Q3,2026,No,Improving
+Q2,2025,ACC004,HealthFirst Systems,Healthcare,68,113,45,Yes,315000,Q4,2026,No,Healthy
+Q2,2025,ACC005,Precision OEM Corp,Manufacturing & OEM,64,109,52,Yes,225000,Q1,2027,No,Healthy
+Q2,2025,ACC006,Global Trust Bank,Financial Services,77,121,28,Yes,1110000,Q2,2026,Yes,Healthy
+Q2,2025,ACC007,NexGen Cloud,Technology & Cloud,74,117,33,Yes,720000,Q3,2026,Yes,Healthy
+Q2,2025,ACC008,Vertex Media Group,Telecom & Media,70,114,40,Yes,330000,Q4,2026,No,Healthy
+Q2,2025,ACC009,BioSync Life Sciences,Healthcare,65,108,50,Yes,200000,Q1,2027,No,Healthy
