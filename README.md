@@ -1,4 +1,5 @@
-![Cedar Logo](images/CEDAR_logo_on_white.png)
+<div align="center"><img src="images/CEDAR_logo_on_white.png"  width="150" alt="Cedar Logo"></div>
+
 # Cedar Analytics Suite — Executive Scorecard Dashboard Solution
 
 > A end-to-end business intelligence project: from company research and KPI design to data modeling and interactive dashboard prototyping aided by Claude Sonnet 4.6.
