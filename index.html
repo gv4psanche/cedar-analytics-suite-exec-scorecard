@@ -555,7 +555,7 @@
           <div class="kpi-sub">vs. $13.6M Q1 2025</div>
         </div>
         <div class="kpi-card teal">
-          <div class="kpi-label">SmartERP attach rate</div>
+          <div class="kpi-label">ArcTrac attach rate</div>
           <div class="kpi-value">47%</div>
           <div class="kpi-delta up">▲ 6pp QoQ</div>
           <div class="kpi-sub">Target: 60% by Q4 2025</div>
@@ -578,7 +578,7 @@
         <div class="chart-card">
           <div class="chart-header">
             <div>
-              <div class="chart-title">Revenue by vertical + SmartERP attach rate</div>
+              <div class="chart-title">Revenue by vertical + ArcTrac attach rate</div>
               <div class="chart-sub">Stacked bar (ACV $M) with line overlay (attach %) — source: 01_revenue_pipeline.csv</div>
             </div>
             <span class="chart-badge badge-blue">Stacked bar + line</span>
@@ -592,7 +592,7 @@
             <div class="legend-item"><span class="legend-swatch" style="background:#f5a623;height:2px;width:14px;border-radius:0"></span>Attach %</div>
           </div>
           <div class="chart-wrap" style="height:240px">
-            <canvas id="c_rev_stack" role="img" aria-label="Stacked bar chart of revenue by vertical per quarter with SmartERP attach rate overlay">Revenue by vertical Q1 2024 to Q2 2025.</canvas>
+            <canvas id="c_rev_stack" role="img" aria-label="Stacked bar chart of revenue by vertical per quarter with ArcTrac attach rate overlay">Revenue by vertical Q1 2024 to Q2 2025.</canvas>
           </div>
           <div class="annotation"><strong>Anomaly signal:</strong> Healthcare ACV grew 260% over 6 quarters — now the #2 growth vertical. Manufacturing lagging — long sales cycles pulling attach rate down.</div>
         </div>
@@ -650,7 +650,7 @@
     <div class="dashboard-view" id="view-1">
       <div class="anomaly-bar">
         <span class="icon">⚠</span>
-        <span><strong style="color:#ff5f5f">Watch:</strong> Meridian Telecom (ACC003) has maintained NRR at or below 103% for 6 consecutive quarters with no SmartERP adoption — high churn risk at Q3 2026 renewal.</span>
+        <span><strong style="color:#ff5f5f">Watch:</strong> Meridian Telecom (ACC003) has maintained NRR at or below 103% for 6 consecutive quarters with no ArcTrac adoption — high churn risk at Q3 2026 renewal.</span>
       </div>
 
       <div class="kpi-strip cols-4">
@@ -711,7 +711,7 @@
           <div class="scrollable">
             <table class="data-table">
               <thead>
-                <tr><th>Account</th><th>Vertical</th><th>NRR</th><th>NPS</th><th>SmartERP</th><th>Status</th></tr>
+                <tr><th>Account</th><th>Vertical</th><th>NRR</th><th>NPS</th><th>ArcTrac</th><th>Status</th></tr>
               </thead>
               <tbody>
                 <tr><td>Global Trust Bank</td><td>Fin. Services</td><td style="color:var(--green)">121%</td><td style="color:var(--green)">+77</td><td style="color:var(--teal)">✓</td><td><span class="status-dot" style="background:var(--green)"></span>Healthy</td></tr>
@@ -959,7 +959,7 @@
           <div class="chart-wrap" style="height:200px">
             <canvas id="c_recovery_wf" role="img" aria-label="Recovery value above benchmark by account">Recovery above benchmark.</canvas>
           </div>
-          <div class="annotation"><strong>Gap flagged:</strong> Meridian Telecom recovery rate (36%) still below 38% benchmark — no SmartERP, manual tracking leading to missed reuse opportunities.</div>
+          <div class="annotation"><strong>Gap flagged:</strong> Meridian Telecom recovery rate (36%) still below 38% benchmark — no ArcTrac, manual tracking leading to missed reuse opportunities.</div>
         </div>
 
         <div class="chart-card">
@@ -993,7 +993,7 @@
           <div class="kpi-delta up">▲ 9pp since Q1 24</div>
         </div>
         <div class="kpi-card amber">
-          <div class="kpi-label">SmartERP attach</div>
+          <div class="kpi-label">ArcTrac attach</div>
           <div class="kpi-value">47%</div>
           <div class="kpi-delta up">▲ 23pp since Q1 24</div>
         </div>
@@ -1067,7 +1067,7 @@
             <tbody>
               <tr><td>Total ACV</td><td>$13.6M</td><td>$16.1M</td><td style="color:var(--green)">+18.2%</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
               <tr><td>NRR %</td><td>114%</td><td>117%</td><td style="color:var(--green)">+3pp</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
-              <tr><td>SmartERP attach</td><td>41%</td><td>47%</td><td style="color:var(--green)">+6pp</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
+              <tr><td>ArcTrac attach</td><td>41%</td><td>47%</td><td style="color:var(--green)">+6pp</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
               <tr><td>Avg NPS</td><td>+69</td><td>+71</td><td style="color:var(--green)">+2pts</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
               <tr><td>Circularity rate</td><td>41%</td><td>43%</td><td style="color:var(--green)">+2pp</td><td><span class="status-dot" style="background:var(--green)"></span>On track</td></tr>
               <tr><td>Sales cycle (days)</td><td>95</td><td>91</td><td style="color:var(--green)">-4 days</td><td><span class="status-dot" style="background:var(--green)"></span>Improving</td></tr>
@@ -1305,7 +1305,7 @@ function buildAll() {
   const sparkData = [
     { label: 'Total ACV ($M)', data: [6.1, 7.33, 9.31, 10.6, 13.62, 16.09], color: '#4a9eff', val: '$16.1M', trend: '+18%' },
     { label: 'NRR %', data: [108, 110, 112, 109, 114, 117], color: '#1fc99a', val: '117%', trend: '+3pp' },
-    { label: 'SmartERP attach %', data: [24, 27, 31, 36, 41, 47], color: '#f5a623', val: '47%', trend: '+6pp' },
+    { label: 'ArcTrac attach %', data: [24, 27, 31, 36, 41, 47], color: '#f5a623', val: '47%', trend: '+6pp' },
     { label: 'Avg NPS', data: [64, 67, 68, 67, 69, 71], color: '#9b7ff4', val: '+71', trend: '+2' },
     { label: 'Circularity rate %', data: [33, 35, 37, 38, 41, 43], color: '#ff6b5b', val: '43%', trend: '+2pp' },
     { label: 'Win rate %', data: [76, 81, 85, 84, 89, 91], color: '#5dca8a', val: '91%', trend: '+2pp' },
