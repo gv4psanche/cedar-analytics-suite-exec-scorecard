@@ -2,7 +2,7 @@
 
 # Cedar Analytics Suite — Executive Scorecard Dashboard Solution
 
-> A end-to-end business intelligence project: from company research and KPI design to data modeling and interactive dashboard prototyping aided by Claude Sonnet 4.6.
+> A end-to-end business intelligence project: from company research and KPI design to data modeling and interactive dashboard prototyping aided by VSCode, Power BI MCP & Claude.
 
 ---
 
